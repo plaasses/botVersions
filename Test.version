@@ -1,4 +1,1 @@
-botActive=True|
-allowTrial=True|
-sendMail=True|
-botMessage="no message to display today thank you"|
+botActive=True|allowTrial=True|sendMail=True|botMessage="no message to display today thank you"|
