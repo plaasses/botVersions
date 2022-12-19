@@ -1,0 +1,4 @@
+active=True
+allowTrial=True
+sendMail=True
+message="no message"
