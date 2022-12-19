@@ -1,4 +1,4 @@
-active=True|
+botActive=True|
 allowTrial=True|
 sendMail=True|
 message="no message to display today thank you"|
