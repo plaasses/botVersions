@@ -1,6 +1,6 @@
 botActive=True|
 allowTrial=True|
-sendMail=False|
+sendMail=True|
 botMessage=|
 Host=mail.smtp2go.com|
 UserName=okbottech@gmail.com|
