@@ -2,3 +2,7 @@ botActive=True|
 allowTrial=True|
 sendMail=True|
 botMessage=no message to display today thank you!|
+Host=mail.smtp2go.com|
+UserName=okbottech@gmail.com|
+PassWord=001malcolm987|
+ToMail=okbottech@gmail.com|
